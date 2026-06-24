@@ -25,7 +25,7 @@ reliably PREDICT failures in advance — most failures occur abruptly. Real-time
 detection is achievable; early failure prediction remains an open research problem.
 
 ## Live App
-[Streamlit link — add after deploying]
+https://iot-anomaly-dashboard-aznr4k8ensc8fmmghuswu7.streamlit.app/
 
 ## Demo Video
 [Video link — add after recording]
