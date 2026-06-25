@@ -30,7 +30,7 @@ detection is achievable; early failure prediction remains an open research probl
 https://iot-anomaly-dashboard-aznr4k8ensc8fmmghuswu7.streamlit.app/
 
 ## Demo Video
-[Video link — add after recording]
+https://drive.google.com/file/d/1wPBhcmOrfdfXrvJQHVEIspqSlzcewygE/view?usp=drive_link
 
 ## How to Run
 1. `pip install -r requirements.txt`
