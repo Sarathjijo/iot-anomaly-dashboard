@@ -9,6 +9,8 @@ behaviour so maintenance teams can act before a breakdown.
 ## Dataset
 Pump sensor dataset (Kaggle) — 220,320 readings from 52 sensors, with a
 machine_status label (NORMAL / RECOVERING / BROKEN). Only 7 readings are BROKEN.
+DATASET LINK : https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
+
 
 ## Approach
 - Cleaning: removed empty sensors (15, 50), filled gaps, scaled all sensors.
